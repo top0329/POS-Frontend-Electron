@@ -2,7 +2,7 @@
   "name": "react-electron",
   "version": "0.1.0",
   "private": true,
-  "author": "John Doe",
+  "author": "Yuki Tanaka",
   "description": "My fantastic Electron app",
   "main": "public/electron.js",
   "build": {
